@@ -1,0 +1,27 @@
+{
+  "name": "image-search-abstraction-layer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ravi-kishore/image-search-abstraction-layer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ravi-kishore/image-search-abstraction-layer/issues"
+  },
+  "homepage": "https://github.com/ravi-kishore/image-search-abstraction-layer#readme",
+  "dependencies": {
+    "express": "^4.14.0",
+    "google-images": "^2.0.0",
+    "got": "^6.6.1",
+    "mongodb": "^2.2.11",
+    "querystring": "^0.2.0"
+  }
+}
